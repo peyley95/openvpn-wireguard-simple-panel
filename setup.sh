@@ -1,5 +1,5 @@
 # Open ports
-read -p "VPN connection port: " vpnport
+read -p "Which port you want to allow in UFW ? : (except 80 and 443) " vpnport
 ufw allow 80
 ufw allow 443
 ufw allow $vpnport
