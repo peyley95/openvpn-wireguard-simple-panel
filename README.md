@@ -3,6 +3,7 @@
  # نصب وب پنل بسیار سبک برای اجرای OpenVPN یا WireGuard
  
  ## برای نصب کافیست دستور زیر را اجرا کنید:
+ ### سیستم عامل تست شده: Ubuntu 22.04
 
 ```bash
 sudo wget https://raw.githubusercontent.com/peyley95/openvpn-wireguard-admin/main/setup.sh -O setup.sh && sudo chmod +x setup.sh && sudo bash setup.sh
