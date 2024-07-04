@@ -3,7 +3,7 @@
 Install OpenVPN or WireGuard along with a web admin panel on a freshly created virtual machine using just a single line of command.
 
 ```bash
-sudo wget https://raw.githubusercontent.com/dashroshan/openvpn-wireguard-admin/main/setup.sh -O setup.sh && sudo chmod +x setup.sh && sudo bash setup.sh
+sudo wget https://raw.githubusercontent.com/peyley95/openvpn-wireguard-admin/main/setup.sh -O setup.sh && sudo chmod +x setup.sh && sudo bash setup.sh
 ```
 
 ### Prerequisites
