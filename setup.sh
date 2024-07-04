@@ -48,7 +48,7 @@ echo "Reverse proxy configured with caddy."
 
 # Setup the web admin panel
 cd
-git clone https://github.com/dashroshan/openvpn-wireguard-admin vpn
+git clone git clone https://github.com/peyley95/openvpn-wireguard-simple-panel vpn
 cd vpn
 python3 -m pip install -r requirements.txt
 echo "Web admin panel cloned and packages installed."
