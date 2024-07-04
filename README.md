@@ -9,12 +9,14 @@
 sudo wget https://raw.githubusercontent.com/peyley95/openvpn-wireguard-simple-panel/main/setup.sh -O setup.sh && sudo chmod +x setup.sh && sudo bash setup.sh
 ```
 
-### Prerequisites
+### توضیحات:
 
--   Open port 80, 443, and whichever port you want to use for the VPN in your VM hosting network panel.
--   Create a domain pointing to your VM for the web admin panel.
+- پورت 80، 443 و سایر پورت هایی که استفاده می‌کنید را در فایروال باز کنید.
+- یک ساب دامنه برای IP خود ست کنید که از طریق آن به پنل دسترسی داشته باشید.
+- نصب همزمان دو سرویس OpenVPN و Wireguard امکان پذیر نیست و هنگام نصب اسکریپت ابتدا از شما پرسیده میشود که کدام سرویس را میخواهید.
+- این پنل فقط مناسب استفاده شخصی می‌باشد و برای فروش اکانتینگ ندارد.
 
-### Admin panel
+### پنل ادمین:
 
 <img src="./docs/screenshot.png" width="100%"/>
 
