@@ -21,4 +21,5 @@ sudo wget https://raw.githubusercontent.com/peyley95/openvpn-wireguard-simple-pa
 
 ### Credits
 
-This project uses the easy install scripts by [Nyr](https://github.com/Nyr) for setting up the OpenVPN and WireGuard services.
+##### Forked from (github.com/dashroshan)
+##### This project uses the easy install scripts by [Nyr](https://github.com/Nyr) for setting up the OpenVPN and WireGuard services.
